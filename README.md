@@ -1,2 +1,2 @@
-# Calculadora de IMC no Flutter
-Projeto de calculadora de IMC para o curso da DIO
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
